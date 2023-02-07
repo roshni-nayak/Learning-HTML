@@ -19,4 +19,4 @@
 7. First commmit using command `git commit -m ""`
 8. connect the github repo to the local git repo 
 ```git remote add origin git@github.com:roshni-nayak/Learning-HTML.git```
-1. Push changes to github repo `git push -u origin main`
+9. Push changes to github repo `git push -u origin main`
