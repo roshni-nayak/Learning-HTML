@@ -20,3 +20,8 @@
 8. connect the github repo to the local git repo 
 ```git remote add origin git@github.com:roshni-nayak/Learning-HTML.git```
 9. Push changes to github repo `git push -u origin main`
+
+### Homework
+Create another repo and create a file, make changes and push to github
+`git clone ` to copy repo from github to local
+
